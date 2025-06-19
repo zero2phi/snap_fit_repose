@@ -1,4 +1,4 @@
 # snap_fit_repose
-first repository for our project
+first repository for our project,
 Author - Pratik Sawant
 
